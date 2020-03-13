@@ -1,37 +1,181 @@
-## Welcome to GitHub Pages
+<!DOCTYPE HTML>
+<html lang="US" prefix="og: http://ogp.me/ns#">
+ <head>
+<meta name="google-site-verification" content="DQwc5GQMzj-lTdKNujArWHpqMPY35zp628QgyyZDYTw" />
+  <title>Sergiy Morning</title>
+  <link rel="shortcut icon" href="http://sergiymorning.github.io/hello/favicon.ico" type="image/x-icon">
+  <meta name="description" content="The world of illusions …">
+  <meta name="keywords" content="Sergiy Morning, Max Denol, Sergiy Chernega, Chernega Sergiy, Сергій Чернега, Чернега Сергій, Сергей Чернега, Чернега Сергей, Чернега, readySergiy2007, CSSM, CSSM Group,">
+  <meta name="msapplication-TileColor" content="#000000">
+  <meta name="theme-color" content="#000000">
+  <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+  <meta property="og:title" content="Sergiy Morning | Чернега Сергій" />
+  <meta property="og:type" content="The world of illusions …" />
+  <meta property="og:image" content="http://sergiymorning.github.io/hello/img/bannerforsocialnetwork.png">
+  <meta name="google-site-verification" content="Faw-uFlxCiBpJ8bMv9vcoGwWvIl7UvsykxlO32RNqSA" /> <style>
+   body {
+    background: url(http://sergiymorning.github.io/hello/img/bg-light.png) repeat;
+    color: #000000;
+   }
+   a {
+    -webkit-transition: all 0.3s ease-out 0s;
+       -moz-transition: all 0.3s ease-out 0s;
+        -ms-transition: all 0.3s ease-out 0s;
+         -o-transition: all 0.3s ease-out 0s;
+            transition: all 0.3s ease-out 0s;
+   }
+   a {
+    text-decoration: none;
+    color: #000000;
+   }
+   a:hover {
+    text-decoration: underline;
+    color: #808080;
+   }
+   .fbform a {
+    text-decoration: none;
+    color: #000000;
+   }
+   .fbform a:hover {
+    text-decoration: none;
+    color: #000000;
+   }
+   .fbform textarea {
+    height: 75px;
+    background: transparent;
+    border: 1px solid #000000;
+   }
+   .fbform button, textarea {
+    width: 100%;
+    color: #000000;
+   }
+   hr {
+    border: 1px solid grey;
+    border-top: 1px solid #000000;
+   }
+   legend {
+    background: orange;
+    padding: 10px 10px;
+    border: 1px solid #000000;
+    margin-left: 20px;
+    border-radius: 10px;
+    line-height: 30px;
+   }
+   fieldset {
+    border: 1px solid #000000;
+    border-radius: 10px;
+   }
+   .feedback {
+    border-radius: 0 10px 10px 0;
+    width: 300px;
+    background: url(http://sergiymorning.github.io/hello/img/images.webp);
+    color: #fff;
+    position: fixed;
+    min-height: 50px;
+    top: 100px; left: -320px;
+    border-right: 20px solid #fc0;
+    padding: 10px;
+    transition: left 1s ease-out;
+    line-height: 20px;
+    font-family: monospace;
+    font-size: 25px;
+   }
+   .feedback img {
+    float: right;
+    margin: 0 10px 0 0;
+    border-radius: 50%;
+   }
+   .feedback p {
+    font-size: 0.6em;
+    background: rgba(0, 0, 0, 0.40);
+   }
+   .feedback:hover {
+    left: 0;
+   }
+   .feedbac {
+    border-radius: 10px 0px 0px 10px;
+    width: 300px;
+    background: #000;
+    color: #fff;
+    position: fixed;
+    min-height: 50px;
+    top: 100px; right: -320px;
+    border-left: 20px solid #808080;
+    padding: 10px;
+    transition: right 1s ease-out;
+    line-height: 20px;
+    font-family: monospace;
+    font-size: 25px;
+   }
+   .feedbac p {
+    font-size: 0.6em;
+    background: rgba(0, 0, 0, 0.40);
+   }
+   .feedbac:hover {
+    right: 0;
+   }
+  </style>
+ </head>
+ <body>
 
-You can use the [editor on GitHub](https://github.com/SergiyMorning/hello/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <div class="feedback">
+<right><img height="100" width="100" src="http://sergiymorning.github.io/hello/img/photo.webp"></right>
+<p>Sergiy Morning</p>
+<hr>
+<p>My birthday: 21th March</p>
+  </div>
 
-### Markdown
+<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ <fieldset><legend>IN THE GAMES</legend><center>
+   <p> <b>readySergiy2007</b> MINECRAFT | Google Play Games: <b>readySergiy2007</b> </p>
+ </center></fieldset>
 
-```markdown
-Syntax highlighted code block
+<br>
 
-# Header 1
-## Header 2
-### Header 3
+ <fieldset><legend>MY PROJECTS AND RESOURCES</legend><center>
+  <p>
+   <a href="http://bee-bees.coolpage.biz/">БДЖІЛКИ</a> | 
+   <a href="https://vid-olenku.6te.net/">ВІД ОЛЕНКИ</a> | 
+   <a href="http://zhivchiki.c1.biz/">ЖИВЧИКИ</a> | 
+   <a href="http://trk-malish.6te.net/">Телеканал "МАЛИШ"</a> | 
+   <a href="https://cssm-group.orgfree.com/">CSSM Group</a> | 
+   <a href="https://cssm-minecraft.orgfree.com/">CSSM MINECRAFT</a>
+  </p>
+ </center></fieldset>
 
-- Bulleted
-- List
+<br>
 
-1. Numbered
-2. List
+ <fieldset><center>
+  <fieldset><legend>I'M ON SOCIAL NETWORKS</legend>
+   <p> <a href="https://www.facebook.com/profile.php?id=100029268226396">FACEBOOK</a> | <a href="https://instagram.com/readysergiy2007">INSTAGRAM</a> </p>
+   <p> <a href="https://qna.habr.com/user/SergiyMDev">HABR Q&A</a> </p>
+  </fieldset>
+  <fieldset><legend>CONTACT ME</legend>
+   <p> <a href="https://hack.chat/?SergiyMorning">HACK.CHAT</a> </p>
+  </fieldset>
+  <fieldset>
+   <div class="fbform"><form>
+    <textarea placeholder="Your message"></textarea>
+    <button><a href="mailto:chernega_sergiy@outlook.com">SEND</a></button>
+   </form></div>
+  </fieldset>
+ </center></fieldset>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<br><br>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<footer>
+ <fieldset><center>
+  <p> <a href="http://sergiymorning.github.io/hello/img/photo-c.png" style="a:hover{text-decoration:none;}"><img src="http://sergiymorning.github.io/hello/img/photo-c.png" height="12px" width="12px" style="border-radius:50px"></img></a>© InColor Studios, 2020 | License by <a href="https://cssm-group.orgfree.com/">CSSM</a> | I ♥ Ukraine </p>
+ </center></fieldset>
+<br><br>
+</footer>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SergiyMorning/hello/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<div style="text-align:left;position:fixed;bottom:3px;left:3px;width:100%;z-index:999999;cursor:pointer;line-height:0;display:block;"><img alt="Don't click me!" src="/poweredby.png" style="border-width: 0px;width: 180px; height: 45px; float: left;"></img></div>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ </body>
+</html>
