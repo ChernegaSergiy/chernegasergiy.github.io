@@ -1,2 +1,2 @@
-# sergiy-morning.github.io
+# chernegasergiy.github.io
 My personal website
